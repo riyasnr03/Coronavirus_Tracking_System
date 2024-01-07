@@ -1,0 +1,33 @@
+--2023-12-23 15:51:56--  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2405:200:1607:2820:41::36, 49.44.79.236
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 15:54:27--  (try: 2)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 15:56:42--  (try: 3)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 15:59:15--  (try: 4)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 16:01:49--  (try: 5)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 16:04:24--  (try: 6)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... failed: Operation timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|49.44.79.236|:443... failed: Operation timed out.
+Retrying.
+
+--2023-12-23 16:07:00--  (try: 7)  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2405:200:1607:2820:41::36|:443... 
